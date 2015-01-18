@@ -1,0 +1,186 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = AB1D74A311384792006E2885 /* AppleNForceATA */;
+		addToTargets = (
+		);
+		codeSenseManager = AB1D749A11384627006E2885 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					355,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288901488;
+			PBXWorkspaceStateSaveDate = 288901488;
+		};
+		perUserProjectItems = {
+			AB1D74EC11384F8E006E2885 /* PBXTextBookmark */ = AB1D74EC11384F8E006E2885 /* PBXTextBookmark */;
+			AB1D74F311385085006E2885 /* PBXTextBookmark */ = AB1D74F311385085006E2885 /* PBXTextBookmark */;
+		};
+		sourceControlManager = AB1D749911384627006E2885 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* AppleNForceATARoot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 1352}}";
+			sepNavSelRange = "{1451, 0}";
+			sepNavVisRange = "{1059, 519}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* AppleNForceATARoot.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 8528}}";
+			sepNavSelRange = "{8530, 0}";
+			sepNavVisRange = "{8390, 457}";
+		};
+	};
+	427B811B05D00D0C002E36B6 /* AppleNForceATA.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {537, 2314}}";
+			sepNavSelRange = "{2368, 0}";
+			sepNavVisRange = "{1883, 670}";
+		};
+	};
+	427B811C05D00D0C002E36B6 /* AppleNForceATA.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 20709}}";
+			sepNavSelRange = "{48586, 17}";
+			sepNavVisRange = "{48404, 296}";
+			sepNavWindowFrame = "{{15, 44}, {1015, 649}}";
+		};
+	};
+	AB1D749911384627006E2885 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AB1D749A11384627006E2885 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AB1D74A311384792006E2885 /* AppleNForceATA */ = {
+		activeExec = 0;
+	};
+	AB1D74AB113848BA006E2885 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{251, 49}, {1015, 649}}";
+		};
+	};
+	AB1D74E011384D75006E2885 /* AppleATIATADriver.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = AppleATIATADriver.cpp;
+		path = "/Users/andyvand/Downloads/ATADrv/darwin-ata/AppleATIATA-7/AppleATIATADriver.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1517, 15444}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1468}";
+			sepNavWindowFrame = "{{465, 49}, {1015, 649}}";
+		};
+	};
+	AB1D74EC11384F8E006E2885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AB1D74E011384D75006E2885 /* AppleATIATADriver.cpp */;
+		name = "AppleATIATADriver.cpp: 1092";
+		rLen = 9;
+		rLoc = 35277;
+		rType = 0;
+		vrLen = 1198;
+		vrLoc = 34515;
+	};
+	AB1D74F311385085006E2885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AB1D74F411385085006E2885 /* AppleATIATADriver.cpp */;
+		name = "AppleATIATADriver.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 0;
+	};
+	AB1D74F411385085006E2885 /* AppleATIATADriver.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleATIATADriver.cpp;
+		path = "/Users/andyvand/Downloads/ATADrv/darwin-ata/AppleATIATA-7/AppleATIATADriver.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1517, 15444}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1468}";
+		};
+	};
+}

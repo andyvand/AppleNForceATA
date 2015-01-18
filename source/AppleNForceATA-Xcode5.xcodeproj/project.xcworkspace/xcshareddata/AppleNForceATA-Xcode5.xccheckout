@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>81DD9198-D267-4642-B573-7C11D756392B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>.</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>dedbfb32-926e-11dd-aac2-07b17bfeb51a++7157</key>
+		<string>http://darwin-ata.googlecode.com/svn/trunk/AppleNForceATA/AppleNForceATA.xcodeproj</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>.</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>dedbfb32-926e-11dd-aac2-07b17bfeb51a++7157</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>dedbfb32-926e-11dd-aac2-07b17bfeb51a++7157</key>
+		<string>http://darwin-ata.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://darwin-ata.googlecode.com/svn/trunk/AppleNForceATA/AppleNForceATA.xcodeproj/.</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>dedbfb32-926e-11dd-aac2-07b17bfeb51a++7157</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>dedbfb32-926e-11dd-aac2-07b17bfeb51a++7157</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppleNForceATA-Xcode5.xcodeproj</string>
+		</dict>
+	</array>
+</dict>
+</plist>

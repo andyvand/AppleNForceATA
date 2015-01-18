@@ -1,0 +1,1 @@
+ const unsigned char AppleNForceATAVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:AppleNForceATA  PROJECT:AppleNForceATA-Xcode5-1.0.4" "\n"; const double AppleNForceATAVersionNumber __attribute__ ((used)) = (double)1.0;
